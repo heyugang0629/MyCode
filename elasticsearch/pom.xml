@@ -12,7 +12,7 @@
     <artifactId>elasticsearch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>elasticsearch</name>
-    <description>搜索引擎</description>
+    <description>搜索引擎0.0.1</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
