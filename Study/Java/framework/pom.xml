@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.plat</groupId>
-	<artifactId>plat-framework</artifactId>
+	<artifactId>framework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>plat-framework</name>
+	<name>framework</name>
 	<description>公共组件</description>
 	<properties>
 		<java.version>1.8</java.version>
